@@ -1,0 +1,39 @@
+{
+    "students":[
+        {
+            "name":"Sara",
+            "lastname":"Michelson",
+            "hobby":"kill",
+            "car":"mustang",
+            "kids":null
+        },
+        {
+            "name":"Josh",
+            "lastname":"Simens",
+            "hobby":"love Sara",
+            "car":null,
+            "kids":null
+        },
+        {
+            "name":"Katya",
+            "lastname":"Gilbert",
+            "hobby":"knit",
+            "car":"tayota",
+            "kids":null
+        },
+        {
+            "name":"Mikki",
+            "lastname":"Milcovich",
+            "hobby":"do nothing",
+            "car":null,
+            "kids":null
+        },
+        {
+            "name":"Olga",
+            "lastname":"Semenova",
+            "hobby":null,
+            "car":null,
+            "kids":null
+        }
+    ]
+}
